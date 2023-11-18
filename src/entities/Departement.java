@@ -12,11 +12,11 @@ public class Departement {
 			this.name = name;
 		}
 
-		public String getDepartament() {
+		public String getName() {
 			return name;
 		}
 
-		public void setDepartament(String name) {
+		public void setName(String name) {
 			this.name = name;
 		}
 		
